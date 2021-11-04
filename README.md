@@ -9,3 +9,4 @@ model(): The model function takes the output from intent() as input to manipulat
 
 view(): This method takes the model returned from model() function and gives it as input to the view() function. Then the view simply displays this model somehow.
 
+![1_TTKpvdzyNXfPBhVyRqD6EA](https://user-images.githubusercontent.com/44297703/140246246-e9a67589-edc9-45b6-8075-19abb025277f.png)
